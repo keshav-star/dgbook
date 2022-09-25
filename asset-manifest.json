@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/dgbook/static/css/main.293f073f.css",
+    "main.js": "/dgbook/static/js/main.9035fe21.js",
+    "static/js/787.e2308f4a.chunk.js": "/dgbook/static/js/787.e2308f4a.chunk.js",
+    "index.html": "/dgbook/index.html",
+    "main.293f073f.css.map": "/dgbook/static/css/main.293f073f.css.map",
+    "main.9035fe21.js.map": "/dgbook/static/js/main.9035fe21.js.map",
+    "787.e2308f4a.chunk.js.map": "/dgbook/static/js/787.e2308f4a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.293f073f.css",
+    "static/js/main.9035fe21.js"
+  ]
+}

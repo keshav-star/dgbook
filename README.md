@@ -1,3 +1,5 @@
+make changes to this repo, improve the code and make a pull request
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
